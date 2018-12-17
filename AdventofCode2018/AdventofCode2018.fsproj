@@ -61,7 +61,7 @@
     <Content Include="1b_test.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Copy of 2a_test.txt" />
+    <Content Include="2a_test.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
